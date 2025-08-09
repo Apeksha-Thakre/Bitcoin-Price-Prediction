@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:882fbd33d6716c5564e00ba86ac28e796f035ce2f21d8993a437c10d91687e5c
-size 94
+streamlit==1.35.0
+pandas
+prophet==1.1.5
+plotly==5.22.0
+yfinance==0.2.40
+numpy
+matplotlib
